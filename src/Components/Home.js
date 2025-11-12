@@ -185,12 +185,14 @@ function Home() {
         </div>
       </div>
       <div className="row">
-            Here is the certeficate we received from Ethiopian Customs Commission.
+        <h2>Certeficate of Recognition</h2>
+            <p>Down is the certeficate we received from Ethiopian Customs Commission for our contribution to the development of our country
+            by achieving a better tax law compliance and paying tax faithfully in the 2024/25 fiscal year.</p>
             <img
-            src="assets/img/award/1.jpg"
+            src="assets/img/certeficate.jpg"
             className="img-fluid rounded"
             alt="Award 3"
-            style={{ border: "2px solid black", padding: "2px", maxHeight:"200px" }}
+            style={{ border: "2px solid black", padding: "2px", maxHeight:"400px" }}
           />
       </div>
     </div>
